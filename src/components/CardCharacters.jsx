@@ -122,7 +122,7 @@ export const CardCharacters = () => {
             sx={{
               borderRadius: "2px",
               fontWeight: "bold",
-              backgroundColor: "grey",
+              backgroundColor: "green",
               color: "white",
               display: "flex",
               justifyContent: "center",
